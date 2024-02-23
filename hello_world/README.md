@@ -63,3 +63,13 @@ Jawaban dibuktikan dengan hasil screenshot.
 
 Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
 
+
+Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby. Ini tidak perlu di push, cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file README nomor 1.
+
+Jawaban:
+
+Remix: Cocok untuk aplikasi web yang membutuhkan performa tinggi dan navigasi tanpa refresh.
+Gatsby: Cocok untuk website statis yang membutuhkan SEO optimal dan kemudahan penggunaan.
+Next.js: Cocok untuk aplikasi web yang kompleks dan membutuhkan fleksibilitas.
+
+Tergantung penggunaan user maka tiap framework memiliki kegunaan dan kekurangan masing masing 
