@@ -57,7 +57,7 @@ tsconfig.json: File konfigurasi TypeScript untuk mendefinisikan compiler options
 Soal 3
 Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
 
-![screenshot](image.png)
+![screenshotbaru](image.png)
 Jawaban dibuktikan dengan hasil screenshot.
 
 Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
