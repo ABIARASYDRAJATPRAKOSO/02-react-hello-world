@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Name:Abi Arasy Drajat  Prakoso
+Class/Absent:TI 3I/01
+NIM:2141720151
 
-## Getting Started
+Soal 1
+Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
 
-First, run the development server:
+TypeScript
+ESLint
+Tailwind CSS
+App Router
+Import alias 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Jawaban:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TypeScript:
+TypeScript adalah superset dari JavaScript yang menambahkan fitur-fitur seperti tipe data statis, kelas, dan modul. TypeScript membantu pengembang untuk menulis kode yang lebih terstruktur, mudah dibaca, dan terhindar dari error.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ESLint:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+ESLint adalah alat yang membantu pengembang untuk menemukan dan memperbaiki masalah dalam kode JavaScript mereka. ESLint dapat mendeteksi berbagai macam masalah, seperti kode yang tidak terformat dengan benar, kode yang tidak efisien, dan kode yang berpotensi menimbulkan error.
 
-## Learn More
+Tailwind CSS:
 
-To learn more about Next.js, take a look at the following resources:
+Tailwind CSS adalah framework CSS utility-first yang membantu pengembang untuk membangun UI web dengan cepat dan mudah. Tailwind CSS menyediakan berbagai macam kelas CSS yang dapat digunakan untuk menata elemen HTML dengan mudah.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+App Router:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+App Router adalah fitur Next.js yang membantu pengembang untuk menavigasi antar halaman dalam aplikasi Next.js. App Router memungkinkan pengembang untuk membuat URL yang mudah dipahami dan digunakan.
 
-## Deploy on Vercel
+Import alias:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Import alias adalah fitur TypeScript yang memungkinkan pengembang untuk mengimpor modul dengan nama yang lebih pendek dan lebih mudah diingat. Import alias dapat membantu pengembang untuk menulis kode yang lebih ringkas dan mudah dibaca.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Soal 2
+Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing tersebut!
+Folder:
+
+.git: Digunakan untuk menyimpan source code project dengan Git.
+node_modules: Menyimpan semua dependensi yang diinstal untuk project.
+public: Menyimpan file statis yang akan diakses langsung oleh browser, seperti gambar, CSS, dan JavaScript.
+src: Menyimpan source code utama project Next.js.
+File:
+
+SFC: File komponen React yang ditulis dengan menggunakan sintaks JSX.
+eslintrc.json: File konfigurasi ESLint untuk mendefinisikan aturan linting code.
+.gitignore: File yang berisi daftar file yang tidak ingin dikomit ke Git repository.
+next.config.mjs: File konfigurasi Next.js untuk mengatur berbagai aspek project.
+next-env.d.ts: File TypeScript untuk mendefinisikan variabel environment khusus Next.js.
+package.json: File yang berisi informasi tentang project, seperti nama, versi, dependensi, dan skrip.
+package-lock.json: File yang berisi daftar dependensi yang diinstal dan versi spesifiknya.
+postcss.config.js: File konfigurasi PostCSS untuk mendefinisikan plugin dan preset yang digunakan untuk memproses CSS.
+README.md: File markdown yang berisi informasi tentang project, seperti deskripsi, cara penggunaan, dan dokumentasi.
+tailwind.config.ts: File konfigurasi Tailwind CSS untuk mendefinisikan kelas CSS yang tersedia.
+tsconfig.json: File konfigurasi TypeScript untuk mendefinisikan compiler options.
+
+Soal 3
+Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
+
+![screenshot](image.png)
+
+Jawaban dibuktikan dengan hasil screenshot.
+
+Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
+
